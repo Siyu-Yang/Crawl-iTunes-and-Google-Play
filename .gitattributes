@@ -1,2 +1,1 @@
-appstore.csv filter=lfs diff=lfs merge=lfs -text
-'appstore.csv' filter=lfs diff=lfs merge=lfs -text
+'Part1_output/' filter=lfs diff=lfs merge=lfs -text
